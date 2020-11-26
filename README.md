@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm a beginner at web front-end development, especially interested in Javascript.
+
+Nowadays I keep learning&learning Python, Javascript.
+
+Recently, I am trying to learn Node, React, too!
+
+Welcome to my github repository.😄😄
+
 <!--
 **dhyoo99/dhyoo99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
